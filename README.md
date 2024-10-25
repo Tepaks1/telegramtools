@@ -11,56 +11,27 @@
     <img src="https://img.shields.io/github/stars/th3unkn0n/TeleGram-Group-Scraper?style=social">
   </a>
 </p>
+
 <p align="center">
-  Telegram Scraper Adder
+  <strong style="font-size: 24px; color: #00FF00;">🔧 Telegram Scraper Adder 🔧</strong>
 </p>
 <p align="center">
-  wtf, atlest just fuking ⭐ star ⭐ it
+  <strong style="color: #FF0000;">wtf, at least just fuking ⭐ star ⭐ it</strong>
 </p>
 
 ---
 
 ## • API Setup
-* Go to http://my.telegram.org  and log in.
-* Click on API development tools and fill the required fields.
-* put app name you want & select other in platform Example :
-* copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
+* Go to <a href="http://my.telegram.org" style="color: #00FFFF;">http://my.telegram.org</a> and log in.
+* Click on **API development tools** and fill the required fields.
+* Put app name you want & select **other** in platform Example.
+* Copy "api_id" & "api_hash" after clicking create app (will be used in setup.py).
 
 ## • How To Install and Use In Termux
 
-`$ pkg up -y`
-
-`$ pkg install python -y`
-
-`$ pkg install git`
-
-`$ git clone https://github.com/termuxprofessor/TeleGram-Scraper-Adder`
-
-`$ cd Telegram-Scraper-Adder`
-
-* Install requierments & Setup Configuration File. ( apiID, apiHash )
-
-`$ python setup.py`
-
-* To Scarpe members from group.
-
-`$ python scraper.py`
-
-* Add Scarped members to your group. 
-
-`$ python adder.py`
-
-## • Watch Video Tutorial From Below
-* https://youtu.be/hNztfzMMPOc
----
-
-<p align="center">
-  Follow Me On
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/c/TermuxProfessorYT">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
-  </a>
-  <a href="https://www.instagram.com/termuxprofessor/">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="40" height="40">
-</p>
+```bash
+$ pkg up -y
+$ pkg install python -y
+$ pkg install git
+$ git clone https://github.com/termuxprofessor/TeleGram-Scraper-Adder
+$ cd Telegram-Scraper-Adder
